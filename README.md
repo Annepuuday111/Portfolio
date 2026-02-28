@@ -31,7 +31,7 @@
 </td>
 <td width="50%">
 
-<img src="[https://github-readme-stats.vercel.app/api?username=Annepuuday111&show_icons=true&theme=tokyonight&hide_border=true](https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif)" />
+<img src="https://miro.medium.com/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" />
 
 </td>
 </tr>
