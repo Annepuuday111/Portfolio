@@ -1,135 +1,102 @@
-```{=html}
-<h1 align="center">
-```
-👋 Hi, I'm Annepu Uday Kumar
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-🚀 AI & Full Stack Developer
-```{=html}
-</h3>
-```
-```{=html}
+<h1 align="center">👋 Hi, I'm Annepu Uday Kumar</h1>
+<h3 align="center">🚀 AI & Full Stack Developer</h3>
+
 <p align="center">
-```
-Building intelligent web applications that solve real-world problems.
-```{=html}
+  Building intelligent web applications that solve real-world problems.
 </p>
-```
 
-------------------------------------------------------------------------
-
-```{=html}
 <p align="center">
-```
-`<a href="http://annepuudaykumar.netlify.app/">`{=html}
-`<img src="https://img.shields.io/badge/🌐 Live_Portfolio-Visit_Now-6366F1?style=for-the-badge" />`{=html}
-`</a>`{=html} `<a href="https://github.com/Annepuuday111">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />`{=html}
-`</a>`{=html}
-`<img src="https://komarev.com/ghpvc/?username=Annepuuday111&label=Profile%20Views&color=6366F1&style=for-the-badge" />`{=html}
-```{=html}
+  <a href="http://annepuudaykumar.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐 Live_Portfolio-6366F1?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Annepuuday111">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Annepuuday111&style=for-the-badge&color=6366F1" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🌟 About Me
+## 🧑‍💻 About Me
 
-🎓 B.Tech CSE Student\
-💡 Passionate about Artificial Intelligence & Smart Financial Systems\
-🚀 Interested in Full Stack Development & AI-Based Applications\
-📊 Love building interactive and animated user interfaces
+<table>
+<tr>
+<td width="50%">
 
-------------------------------------------------------------------------
+🎓 B.Tech CSE Student  
+💡 Passionate about AI & Smart Financial Systems  
+🚀 Full Stack Developer  
+📊 Building AI-powered Web Applications  
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Annepuuday111&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 
-```{=html}
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mongodb,git,github,vscode" />`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mongodb,git,github,vscode" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## ✨ Features of My Portfolio
+## ✨ Portfolio Highlights
 
--   🎨 Modern Dark Theme UI\
--   ⚡ Smooth Scroll Animations\
--   📱 Fully Responsive Design\
--   💡 Interactive Project Cards\
--   🚀 Deployed using Netlify\
--   📬 Contact Section
+| Feature | Description |
+|----------|-------------|
+| 🎨 Modern UI | Dark theme with smooth animations |
+| 📱 Responsive | Works on mobile & desktop |
+| 💡 Interactive | Animated project cards |
+| 🚀 Deployment | Hosted on Netlify |
+| 📬 Contact | Direct contact integration |
 
-------------------------------------------------------------------------
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=Annepuuday111&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>`{=html}
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Annepuuday111&theme=tokyonight&hide_border=true" height="170"/>`{=html}
-```{=html}
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annepuuday111&theme=tokyonight&hide_border=true" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🚀 Live Demo
+## 🚀 Live Portfolio
 
-🔗 Visit My Portfolio:\
-👉 http://annepuudaykumar.netlify.app/
+<p align="center">
+  <a href="http://annepuudaykumar.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-------------------------------------------------------------------------
-
-## 📂 Project Structure
-
-    Portfolio/
-    │── index.html
-    │── style.css
-    │── script.js
-    │── assets/
-    │── images/
-    │── README.md
-
-------------------------------------------------------------------------
+---
 
 ## 🤝 Connect With Me
 
-```{=html}
 <p align="center">
-```
-`<a href="https://github.com/Annepuuday111">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html} `<a href="https://linkedin.com/in/YOUR-LINK">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
-`</a>`{=html} `<a href="mailto:yourmail@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://github.com/Annepuuday111">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-```{=html}
 <p align="center">
-```
 ⭐ If you like this portfolio, consider giving it a star!
-```{=html}
 </p>
-```
-```{=html}
+
 <p align="center">
-```
 Made with ❤️ by Annepu Uday Kumar
-```{=html}
 </p>
-```
