@@ -23,10 +23,11 @@
 <tr>
 <td width="50%">
 
-🎓 B.Tech CSE Student  
-💡 Passionate about AI & Smart Financial Systems  
-🚀 Full Stack Developer  
-📊 Building AI-powered Web Applications  
+🎓 Final Year B.Tech CSE Student | DevOps Enthusiast | Full-Stack Developer
+
+I’m a final-year Computer Science and Engineering student at Koneru Lakshmaiah Education Foundation (Deemed to be University), Guntur, with a specialization in Software Modelling and DevOps.
+
+I have hands-on experience in full-stack development and a strong foundation in cloud computing and containerization tools, including AWS, Docker, Kubernetes, Jenkins, and Git. I’ve worked on real-world freelance and academic projects where I built web-based management systems, integrated cloud-native technologies, and applied agile methodologies for efficient delivery.
 
 </td>
 <td width="50%">
